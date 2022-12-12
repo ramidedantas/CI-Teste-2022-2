@@ -21,7 +21,7 @@ jobs:
 
     runs-on: ubuntu-latest
     container:
-       image: docker://ramideifpe/aula-2022-2:docker-teste
+       image: docker://ramideifpe/aula-2022-2:devops-teste
 
     steps:
     - uses: actions/checkout@v3
